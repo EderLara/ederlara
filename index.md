@@ -4,12 +4,12 @@ layout: default
 ## Perfil Profesional
 
 Máster en Bigdata & analítica, analista de modelos de negocios y administración de bases de datos. Habilidades para trabajar en equipo en comunidades de: Desarrollo de Software, soluciones informáticas, evaluación de proyectos, Gerente de Business Intelligence, Analista Senior, BI Consultant, Analista Big Data, Técnico de Inteligencia de Negocio, Consultor Senior BI, Jefe de Proyecto Big Data. 
-
+* * *
 ## Cargos
 
 Especialista Analítica, Especialista Big Data. Analista de datos, Ingeniero de
 Desarrollo, Desarrollador FullStack, Consultor, Profesor.
-* * *
+
 ## Competencias
 
 | Comunicativas    |Organizacion - Gestión   | Informáticas      |
@@ -21,7 +21,9 @@ Desarrollo, Desarrollador FullStack, Consultor, Profesor.
 |                  | Análisis para toma de   | Bases de Datos    |
 |                  | Decisiones              | MySQL - PlSQL     |
 |                  |                         | MongoDB - NoSQL   |
-| Tolerancia       |                         | Office            |
+|                  |                         | Office            |
+* * *
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
