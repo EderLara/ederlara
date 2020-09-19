@@ -18,10 +18,10 @@ Desarrollo, Desarrollador FullStack, Consultor, Profesor.
 | Persuasivo       | Evaluación de Proyectos | Python (WEB / ETL)|
 | Actitud Positiva | Responsabilidad         | FullStack MEAN    |
 | Tolerancia       | Estrategias de Gestión  | Javascript        |
-|                  | Análisis para toma de   | Bases de Datos    |
-|                  | Decisiones              | MySQL - PlSQL     |
-|                  |                         | MongoDB - NoSQL   |
-|                  |                         | Office            |
+| Respeto          | Análisis para toma de   | Bases de Datos    |
+| Diálogo Abierto  | Decisiones              | MySQL - PlSQL     |
+| Orden            |                         | MongoDB - NoSQL   |
+| Apoyo            |                         | Office            |
 
 
 
