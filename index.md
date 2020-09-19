@@ -22,7 +22,7 @@ Desarrollo, Desarrollador FullStack, Consultor, Profesor.
 |                  | Decisiones              | MySQL - PlSQL     |
 |                  |                         | MongoDB - NoSQL   |
 |                  |                         | Office            |
-* * *
+
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
