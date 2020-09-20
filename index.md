@@ -23,7 +23,11 @@ Desarrollo, Desarrollador FullStack, Consultor, Profesor.
 | Orden            |                         | MongoDB - NoSQL   |
 | Apoyo            |                         | Office            |
 
+## Estudios y Certificados
 
+*   **Posgrado:**     _Universidad Internacional de la Rioja UNIR_ 
+*   **Pregrado:**     _Universidad del Tolima_
+*   **Bachillerato:** _Institución Técnica Ciudad Ibagué_
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
