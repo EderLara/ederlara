@@ -12,7 +12,7 @@ Desarrollo, Desarrollador FullStack, Consultor, Profesor.
 
 ## Competencias
 
-| Comunicativas    |Organizacion - Gestión   | Informáticas      |
+| Comunicativas    | Organizacion - Gestión  | Informáticas      |
 |:-----------------|:------------------------|:------------------|
 | Asertivo         | Liderazgo               | Análisis de datos |
 | Persuasivo       | Evaluación de Proyectos | Python (WEB / ETL)|
@@ -25,9 +25,12 @@ Desarrollo, Desarrollador FullStack, Consultor, Profesor.
 
 ## Estudios y Certificados
 
-*   **Posgrado:**     _Universidad Internacional de la Rioja UNIR_ 
-*   **Pregrado:**     _Universidad del Tolima_
-*   **Bachillerato:** _Institución Técnica Ciudad Ibagué_
+- **Posgrado:**     _Universidad Internacional de la Rioja UNIR_ 
+  - **Titulo:**     _Máster en BigData y Analithycs
+- **Pregrado:**     _Universidad del Tolima_
+  - **Titulo:**     _Ingeniero de Sistemas_
+- **Bachillerato:** _Institución Técnica Ciudad Ibagué_
+  - **Titulo:**     _Bachiller técnico en Sistemas_
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
