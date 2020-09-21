@@ -46,10 +46,9 @@ Desarrollo, Desarrollador FullStack, Consultor, Profesor.
 </dl>
 
 * * *
-## Entusiasta de GitHub
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ```
-The final element.
+ederlatru@gmail.com
 ```
 
