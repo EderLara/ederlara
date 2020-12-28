@@ -3,6 +3,8 @@ logo: /assets/img/eddy.jpg
 description: Desarrollador MEAN | Máster Big-Data
 linkedin: https://www.linkedin.com/in/eder-lara-trujillo-659047125/
 imglink: /assets/img/LI-Logo.png
+imgart: /assets/img/article.jpg
+artcient: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9240341&isnumber=9240223
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
