@@ -11,33 +11,6 @@ Máster en Bigdata & analítica, analista de modelos de negocios y administraci�
 Durante el 2020 mientras hacia parte del equipo de investigación GACIPE, elaboramos un artículo científico, donde usando investigación aplicada e integrando elementos de la industria 4.0, pusimos a prueba un dispositivo para controlar el aforo de personas en un área determinada. Puedes ver el articulo haciendo [clic aquí](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9240341&isnumber=9240223). 
 * * *
 
-## Cargos
-
-Especialista Analítica, Especialista Big Data. Analista de datos, Ingeniero de
-Desarrollo, Desarrollador FullStack, Consultor, Profesor.
-
-## Competencias
-
-| Comunicativas    | Organizacion - Gestión  | Informáticas      |
-|:-----------------|:------------------------|:------------------|
-| Asertivo         | Liderazgo               | Análisis de datos |
-| Persuasivo       | Evaluación de Proyectos | Python (WEB / ETL)|
-| Actitud Positiva | Responsabilidad         | FullStack MEAN    |
-| Tolerancia       | Estrategias de Gestión  | Javascript        |
-| Respeto          | Análisis para toma de Decisiones     | Bases de Datos    |
-| Diálogo Abierto  |                         | MySQL - PlSQL     |
-| Orden            |                         | MongoDB - NoSQL   |
-| Apoyo            |                         | Office            |
-
-## Estudios y Certificados
-
-- **Posgrado:**     _Universidad Internacional de la Rioja UNIR_ 
-  - **Titulo:**     _Máster en BigData y Analithycs_
-- **Pregrado:**     _Universidad del Tolima_
-  - **Titulo:**     _Ingeniero de Sistemas_
-- **Bachillerato:** _Institución Técnica Ciudad Ibagué_
-  - **Titulo:**     _Bachiller técnico en Sistemas_
-
 ## Participación en Proyectos:
 
 <dl>
@@ -50,6 +23,34 @@ Desarrollo, Desarrollador FullStack, Consultor, Profesor.
   <dt>METROPARQUES (Módulo de taquillas)</dt>
     <dd><em>PHP 7.0, MySQL 5.7, Bootstrap 3</em></dd>
 </dl>
+
+## Cargos
+
+Especialista Analítica, Especialista Big Data. Analista de datos, Ingeniero de
+Desarrollo, Desarrollador FullStack, Consultor, Profesor.
+
+## Competencias
+
+| Comunicativas    | Organizacion - Gestión  | Informáticas      |
+|:-----------------|:------------------------|:------------------|
+| Asertivo         | Liderazgo               | Hadoop            |
+| Persuasivo       | Evaluación de Proyectos | Análisis de datos |
+| Actitud Positiva | Responsabilidad         | Python (WEB / ETL)|
+| Tolerancia       | Estrategias de Gestión  | FullStack MEAN    |
+| Respeto          | Análisis para toma de Decisiones     | Javascript    |
+| Diálogo Abierto  |                         | Bases de Datos    |
+| Orden            |                         | MySQL - PlSQL     |
+| Apoyo            |                         | MongoDB - NoSQL   |
+|                  |                         | Office            |
+
+## Estudios y Certificados
+
+- **Posgrado:**     _Universidad Internacional de la Rioja UNIR_ 
+  - **Titulo:**     _Máster en BigData y Analithycs_
+- **Pregrado:**     _Universidad del Tolima_
+  - **Titulo:**     _Ingeniero de Sistemas_
+- **Bachillerato:** _Institución Técnica Ciudad Ibagué_
+  - **Titulo:**     _Bachiller técnico en Sistemas_
 
 * * *
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
