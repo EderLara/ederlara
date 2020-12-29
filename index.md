@@ -6,7 +6,7 @@ layout: default
 Máster en Bigdata & analítica, analista de modelos de negocios y administración de bases de datos. Habilidades para trabajar en equipo en comunidades de: Desarrollo de Software, soluciones informáticas, evaluación de proyectos, Gerente de Business Intelligence, Analista Senior, BI Consultant, Analista Big Data, Técnico de Inteligencia de Negocio, Consultor Senior BI, Jefe de Proyecto Big Data. 
 * * *
 
-## Contribuciones Científicas
+## Contribuciones
 
 Durante el 2020 mientras hacia parte del equipo de investigación GACIPE, elaboramos un artículo científico, donde usando investigación aplicada e integrando elementos de la industria 4.0, pusimos a prueba un dispositivo para controlar el aforo de personas en un área determinada. Puedes ver el articulo haciendo [clic aquí](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9240341&isnumber=9240223). 
 * * *
@@ -33,7 +33,7 @@ Desarrollo, Desarrollador FullStack, Consultor, Profesor.
 
 | Comunicativas    | Organizacion - Gestión  | Informáticas      |
 |:-----------------|:------------------------|:------------------|
-| Asertivo         | Liderazgo               | Hadoop            |
+| Asertivo         | Liderazgo               | Hadoop        |
 | Persuasivo       | Evaluación de Proyectos | Análisis de datos |
 | Actitud Positiva | Responsabilidad         | Python (WEB / ETL)|
 | Tolerancia       | Estrategias de Gestión  | FullStack MEAN    |
