@@ -8,7 +8,7 @@ Máster en Bigdata & analítica, analista de modelos de negocios y administraci�
 
 ## Contribuciones
 
-Durante el 2020 mientras hacia parte del equipo de investigación GACIPE, elaboramos un artículo científico, donde usando investigación aplicada e integrando elementos de la industria 4.0, pusimos a prueba un dispositivo para controlar el aforo de personas en un área determinada. Puedes ver el articulo haciendo [clic aquí](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9240341&isnumber=9240223). 
+Durante el 2020 mientras hacia parte del equipo de investigación [GACIPE](http://tecnologia-manufactura-avanzada.blogspot.com/p/gacipe-semillero-de-investigacion.html), elaboramos un artículo científico, donde usando investigación aplicada e integrando elementos de la industria 4.0, pusimos a prueba un dispositivo para controlar el aforo de personas en un área determinada. Puedes ver el articulo haciendo [clic aquí](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9240341&isnumber=9240223). 
 * * *
 
 ## Participación en Proyectos:
